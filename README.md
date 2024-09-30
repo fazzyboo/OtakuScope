@@ -36,4 +36,5 @@ The database uses MySQL to store user profiles, anime statuses, reviews, and for
 - **Forums & Forum Posts**: Handles discussions and user posts in the forums.
 - **Recommendations**: Stores anime recommendations made by users.
 
-**## ERD- ** https://tinyurl.com/4c8jyyt3
+## ERD 
+https://tinyurl.com/4c8jyyt3
